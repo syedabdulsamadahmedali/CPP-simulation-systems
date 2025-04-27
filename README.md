@@ -1,8 +1,6 @@
-# 🚀 C++ Projects Showcase
+# 🚀 C++ Simulations
 
 This repository is a collection of professional-grade C++ projects that demonstrate real-world skills across simulation, systems programming, networking, and backend engineering.
-
-Each project is designed to reflect the types of applications commonly built in industries like Aerospace, Game Development, High-Performance Computing, Robotics, Databases, and Finance.
 
 ---
 
@@ -44,7 +42,7 @@ Each project is designed to reflect the types of applications commonly built in 
 
 ---
 
-## 🌟 Skills Demonstrated
+## 🌟 Skills
 
 - Real-time physics simulation
 - TCP networking and server-client architecture
