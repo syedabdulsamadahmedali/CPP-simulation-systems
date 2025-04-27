@@ -1,6 +1,6 @@
 # 🚀 C++ Simulations
 
-This repository is a collection of professional-grade C++ projects that demonstrate real-world skills across simulation, systems programming, networking, and backend engineering.
+This repository is a collection of professional-grade C++ projects that demonstrate real-world simulation, systems programming, networking, and backend engineering.
 
 ---
 
