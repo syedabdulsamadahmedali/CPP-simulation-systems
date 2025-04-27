@@ -9,17 +9,14 @@ This repository is a collection of professional-grade C++ projects that demonstr
 ### 1. Mini Key-Value Store (`mini-kv-store/`)
 - Lightweight in-memory key-value storage engine with file persistence.
 - Supports basic CRUD operations and safe concurrent access using mutexes.
-- Demonstrates system-level file I/O and thread safety techniques.
 
 ### 2. Simple Physics Engine (`simple-physics-engine/`)
 - Real-time 2D gravity simulation where balls fall and bounce off surfaces.
 - Built with C++ and SFML for rendering.
-- Demonstrates basic physics modeling, object-oriented programming, and game loop architecture.
 
 ### 3. Multithreaded Web Server (`multithreaded-webserver/`)
 - TCP socket server capable of handling multiple concurrent client connections.
 - Built with C++ threads and the Winsock2 API (Windows Sockets).
-- Demonstrates networking fundamentals, multithreaded server design, and low-level systems programming.
 
 ### 4. Lightweight 3D Simulation Engine (`lightweight-3d-engine/`)
 - Modular real-time world simulation with basic physics and rendering.
@@ -42,7 +39,7 @@ This repository is a collection of professional-grade C++ projects that demonstr
 
 ---
 
-## 🌟 Skills
+## 🌟 Outcomes
 
 - Real-time physics simulation
 - TCP networking and server-client architecture
