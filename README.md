@@ -4,7 +4,7 @@ This repository is a collection of professional-grade C++ projects that demonstr
 
 ---
 
-## 📂 Projects Included
+## 📂 Projects
 
 ### 1. Mini Key-Value Store (`mini-kv-store/`)
 - Lightweight in-memory key-value storage engine with file persistence.
